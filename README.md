@@ -31,9 +31,9 @@ Commands To start with are:
 
 * Command:**git checkout -b** <name> here name=dinesh/feature // the best pratice is name_of_user working on that specific feature like dinesh/multiply
 
-<h2>Inorder to add changes commited by devlopers (dev) to any branch or inoder to merge any branch with other
+<p>Inorder to add changes commited by devlopers (dev) to any branch or inoder to merge any branch with other
 
-* First checkout to brach in which the other brach you want to be merged inside of this branch</h2>
+* First checkout to brach in which the other brach you want to be merged inside of this branch</p>
 
 Command : "**git merge** <branch name>"
 

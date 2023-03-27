@@ -19,17 +19,17 @@ Commands To start with are:
 
 6. *you can list how many braches are there with*
 
-      * Command: "**git brach**" // by deafult there is brach named master
+       Command: "**git brach**" // by deafult there is brach named master
 
 7. *create a brach with "**git branch**" to go that branch// initally there is one branch //*</name>
 
 8. *Can jump from one brach to other by using*
 
-      * Command: "**git checkout** <hash of that branch name or branch name> "
+       Command: "**git checkout** <hash of that branch name or branch name> "
 
 9. To Create and directly Jump to that brach
 
-      * Command:**git checkout -b** <name> here name=dinesh/feature // the best pratice is name_of_user working on that specific feature like dinesh/multiply
+       Command:**git checkout -b** <name> here name=dinesh/feature // the best pratice is name_of_user working on that specific feature like dinesh/multiply
 
 <p>Inorder to add changes commited by devlopers (dev) to any branch or inoder to merge any branch with other
 
@@ -39,9 +39,9 @@ Commands To start with are:
 
 Inorder to push branches to main branch
 
-1. **git checkout main**
+    1. **git checkout main**
 
-2. **git push**
+    2. **git push**
 
 "**.gitignore**" anything written this file git will not expose or track that
 

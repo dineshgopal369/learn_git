@@ -1,8 +1,8 @@
 # Git Learning Notes
 
-*Starting With Git*
+*Starting With git*
 
-Commands To start with are:
+Commands to get start with are:
 
 1. **git config --global user.name " "**
 2. **git config --global user.email " "**

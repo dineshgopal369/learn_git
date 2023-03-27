@@ -14,7 +14,7 @@ Commands To start with are:
 
 To add a change: **git add file_name**
 
-To commit something: **git commit -m "some text**
+To commit something: **git commit -m "some text"**
 ![](assets/20230327_135632_ksnip_20230327-002905.png)
 
 *you can list how many braches are there with*

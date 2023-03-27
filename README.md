@@ -10,24 +10,24 @@ Commands to get start with are:
 <p align="center">
 <img src=assets/20230327_135323_ksnip_20230327-002622.png alt="your image" />
 </p>
-1. To add a change: **git add file_name**
 
-2. To commit something: **git commit -m "some text"**
+4. To add a change: **git add file_name**
+5. To commit something: **git commit -m "some text"**
 <p align="center">
 <img src=assets/20230327_135632_ksnip_20230327-002905.png alt="your image" />
 </p>
 
-1. *you can list how many braches are there with*
+6. *you can list how many braches are there with*
 
        Command: git brach // by deafult there is brach named master
 
-2. *create a brach with **git branch** to go that branch// initally there is one branch //*</name>
+7. *create a brach with **git branch** to go that branch// initally there is one branch //*</name>
 
-3. *Can jump from one brach to other by using*
+8. *Can jump from one brach to other by using*
 
        Command: git checkout <hash of that branch name or branch name> "
 
-4. To Create and directly Jump to that brach
+9. To Create and directly Jump to that brach
 
        Command:git checkout -b <name> here name=dinesh/feature // the best pratice is name_of_user working on that specific feature like dinesh/multiply
 

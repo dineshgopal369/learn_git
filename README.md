@@ -1,7 +1,5 @@
 # Git Learning Notes
 
-*Starting With git*
-
 Commands to get start with are:
 
 1. **git config --global user.name " "**
